@@ -1,7 +1,7 @@
 # Blueprint-Studio
 
 
-Blueprint Studi is `UI builder` that allows `dynamic positioning` and persisting to continue where they left off for `user experience` [Blueprint Studio](https://github.com/facebook/create-react-app).
+Blueprint Studi is `UI builder` that allows `dynamic positioning` and persisting to continue where they left off for `user experience` [Blueprint Studio](https://blueprint-studio.vercel.app/).
 
 <img src="https://github.com/jpelaa/blueprint-studio/blob/master/src/assets/images/blueprint-studio.png" alt="product image"/>
 
