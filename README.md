@@ -1,7 +1,5 @@
 # Blueprint-Studio
 
-![GitHub contributors](https://github.com/jpelaa)
-![Twitter Follow](http://twitter.com/jpelaa)
 
 Blueprint Studi is `UI builder` that allows `dynamic positioning` and persisting to continue where they left off for `user experience` [Blueprint Studio](https://github.com/facebook/create-react-app).
 
